@@ -1,7 +1,7 @@
 # Social-application-using-typescript
-* REST-APIs of
- ** Login
- ** Sign-Up
- ** Verifications
- ** Posts and Comments
+*Built and tested Rest-APIs for:
+***Login
+ ***Sign-Up
+ ***Verifications
+ ***Posts and Comments
  
